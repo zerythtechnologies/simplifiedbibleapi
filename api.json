@@ -1,1 +1,35 @@
-
+{
+  "yoruba2014": {
+    "id": "YORUBA2014",
+    "abbreviation": "YOR2014",
+    "name": "Yoruba Bible 2014",
+    "language": "Yorùbá",
+    "languageCode": "yo",
+    "provider": "xml",
+    "xmlUrl": "https://raw.githubusercontent.com/zerythtechnologies/bibleapi/refs/heads/master/Yoruba2014Bible.xml",
+    "description": "Yorùbá Bible translation loaded through the standard D’Mantle XML interpreter.",
+    "downloadable": true
+  },
+  "igbo": {
+    "id": "IGBO2020",
+    "abbreviation": "IGB",
+    "name": "Igbo Bible",
+    "language": "Igbo",
+    "languageCode": "ig",
+    "provider": "xml",
+    "xmlUrl": "https://raw.githubusercontent.com/zerythtechnologies/bibleapi/refs/heads/master/Igbo2020Bible.xml",
+    "description": "Igbo Bible translation loaded through the standard D’Mantle XML interpreter.",
+    "downloadable": true
+  },
+  "hausa": {
+    "id": "HAUSA2013",
+    "abbreviation": "HAU",
+    "name": "Hausa Bible",
+    "language": "Hausa",
+    "languageCode": "ha",
+    "provider": "xml",
+    "xmlUrl": "https://raw.githubusercontent.com/zerythtechnologies/bibleapi/refs/heads/master/Hausa2013Bible.xml",
+    "description": "Hausa Bible translation loaded through the standard D’Mantle XML interpreter.",
+    "downloadable": true
+  }
+}
