@@ -1,0 +1,2 @@
+# simplifiedbibleapi
+Simplified Bible API
